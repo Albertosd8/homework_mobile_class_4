@@ -29,6 +29,16 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_bloc:
+  equatable:
+  local_auth:
+  flutter_credit_card:
+  image_picker:
+  share:
+  screenshot:
+  path_provider:
+  flutter_share: ^2.0.0
+  file_picker: ^4.4.0
 
 
   # The following adds the Cupertino Icons font to your application.
